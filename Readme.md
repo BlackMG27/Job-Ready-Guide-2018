@@ -167,6 +167,7 @@ _From soft-medium to advace topics_
 
 ### Resources
 Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
+
     - [CSS Diner](https://flukeout.github.io/)
     - [FlexBox Defense](http://www.flexboxdefense.com/)
     - [FlexBox Froggy](http://flexboxfroggy.com/)
