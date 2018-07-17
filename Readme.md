@@ -167,12 +167,13 @@ _From soft-medium to advace topics_
 
 ### Resources
 Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
-
     - [CSS Diner](https://flukeout.github.io/)
     - [FlexBox Defense](http://www.flexboxdefense.com/)
     - [FlexBox Froggy](http://flexboxfroggy.com/)
     - [Grid Garden](http://cssgridgarden.com/)
     - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
+    - [Scrimba](https://scrimba.com/g/gR8PTE?ref=designrevision.com)
+    - [Wes Bos CSS Grid](https://cssgrid.io/?ref=designrevision.com)
   - For when you need a quick/fun productive break in which you also practice JavaScript
     - [Untrusted](https://alexnisnevich.github.io/untrusted/)
     - [Elevator Saga](http://play.elevatorsaga.com/)
