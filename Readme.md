@@ -147,10 +147,12 @@ _From soft-medium to advace topics_
 - [ ]  Book: [How to Make Mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)
 - [ ] Book: [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 - [ ]  Project: Complete or redo any of the backend projects from FCC with Python as the backend language
-- [ ]  Read: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
-- [ ]  Read: [What every programmer should know about memory](https://lwn.net/Articles/250967/)
-
-- [ ]  Project: Complete or redo any of the backend projects from FCC with Go as the backend language
+- [ ]  Book: [The Debugging Mindset](https://queue.acm.org/detail.cfm?id=3068754)
+- [ ]  Book: [What every programmer should know about memory](https://lwn.net/Articles/250967/)
+- [ ]  Book: [An Introduction to Programming in Go](http://www.golang-book.com)
+- [ ]  Book: [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
+- [ ]  Book: [Go Bootcamp](http://www.golangbootcamp.com/book)
+- [ ] Project: Complete or redo any of the backend projects from FCC with Go as the backend language
 - [ ] Book: [Working with Web APIs](https://launchschool.com/books/working_with_apis)
 - [ ] Book: [Your API Is Bad](https://leanpub.com/yourapiisbad)
 - [ ] Course: [Software Development Courses](https://www.edx.org/micromasters/software-development)
