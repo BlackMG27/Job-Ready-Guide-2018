@@ -32,7 +32,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ]  Course: [Try Git](https://try.github.io/levels/1/challenges/1) and/or How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 - [ ]  Read: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [x]  Read: [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
-- [ ]  Read: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
+- [x]  Read: [What Every Programmer Should Know About SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
 - [ ]  Book: [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer) _this is a must-read_
 
 ### Tier 1 - Intro to Programming
