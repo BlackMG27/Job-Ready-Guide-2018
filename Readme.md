@@ -165,6 +165,47 @@ _From soft-medium to advace topics_
 - [ ]  Course: [Reviews & Metrics for Software Improvements](https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements)
 - [ ]  Course: [Software Product Management Capstone](https://www.coursera.org/learn/software-product-management-capstone)
 
-
+### Resources
+Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
+    - [CSS Diner](https://flukeout.github.io/)
+    - [FlexBox Defense](http://www.flexboxdefense.com/)
+    - [FlexBox Froggy](http://flexboxfroggy.com/)
+    - [Grid Garden](http://cssgridgarden.com/)
+    - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
+  - For when you need a quick/fun productive break in which you also practice JavaScript
+    - [Untrusted](https://alexnisnevich.github.io/untrusted/)
+    - [Elevator Saga](http://play.elevatorsaga.com/)
+    - [Screeps](https://screeps.com)
+  - For when you need assets/ideas
+    - [pixabay](https://pixabay.com/)
+    - [Unsplash](https://unsplash.com/)
+    - [Pexels](https://www.pexels.com/)
+    - [LibreStock](http://librestock.com/)
+    - [Google Fonts](https://fonts.google.com/)
+    - [FlatIcon's Free Icon Sets](https://www.flaticon.com/packs?license=selection&order_by=1)
+  - Official Docs
+    - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
+    - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
+    - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
+    - [Sass](http://sass-lang.com/guide) - supercharged CSS
+    - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
+    - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
+    - [MongoDB](https://docs.mongodb.com/) - for storing data
+    - [Mongoose](http://mongoosejs.com/) - access to MongoDB from Node.js made easy(er)
+    - [Passport.js](http://passportjs.org/) - remember this link when you have to setup a login system
+    - [D3](https://d3js.org/) - for creating awesome graphs and charts
+    - [Angular](https://angular.io/) - option for creating single page apps on the frontend
+    - [React](https://reactjs.org/) - option for creating single page apps on the frontend
+    - [Vue](https://vuejs.org/) - option for creating single page apps on the frontend
+    - [Redux](http://redux.js.org/) - for managing state in a single page app
+    - [Mocha](https://mochajs.org/) - venture into testing
+    - [Karma](https://karma-runner.github.io/1.0/index.html) - venture into testing
+    - [Jest](https://facebook.github.io/jest/) - venture into testing
+    - [Webpack](https://webpack.github.io/) - module bundler for use in your build process (so you can minify your HTML/CSS/JavaScript among other things and deliver an optimized build to production)
+    - [Babel](http://babeljs.io/) - makes the new JavaScript work on old browsers (or node versions for that matter)
+    - [Gulp](https://gulpjs.com/) - for automating your workflow
+    - [ESLint](https://eslint.org/) - for helping to keep your code clean
+    - [Prettier](https://prettier.io/) - more help keeping your code clean
+    - [Travis](https://travis-ci.org/) - continuous deployment (how to trigger a build/deploy whenever you commit your changes via git)
 
 **Sidenote**: Obviously, this isn't perfect, but I'm on my way.
