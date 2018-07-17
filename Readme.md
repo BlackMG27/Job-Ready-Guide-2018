@@ -1,6 +1,6 @@
 # 2018 - 2020 Study plan
 
-The aims of these years is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms and Data Structures, and enough preparation to get a job on the field.
+The aims of these years is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms, Data Structures and Machine Learning, and enough preparation to get a job on the field.
 
 - [Progress](progress.md)
 - [The rules](faq.md#the-rules)
