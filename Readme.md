@@ -14,9 +14,8 @@ The aims of these years is to have a deep understanding of Web development while
     - [Math](#math)
     - [Algorithms & Data Structures](#algorithms-and-data-structures)
     - [Programming](#Programming)
-- [Resources](resources.md)
-- [Bonus List](progress.md#bonus-list)
-- [Frequently Asked Questions](faq.md)
+- [Resources](#Resources)
+
 ---
 
 ## Part One - Getting Job Ready
