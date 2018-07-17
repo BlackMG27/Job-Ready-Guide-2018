@@ -21,7 +21,7 @@ The aims of these years is to have a deep understanding of Web development while
 ## Part One - Getting Job Ready
 
 ### Tier 0 - Prep
-**Goal**:Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by midway through Tier 2.
+**Goal**:Be comfortable with git by midway through Tier 1, and get a good start programming topics by Tier 2.
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
 - [ ]  [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep). Sign up for this now and work through it alongside the rest of the plan.
