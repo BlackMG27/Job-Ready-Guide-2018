@@ -3,7 +3,6 @@
 The aims of these years is to have a deep understanding of Web development while building projects along the way, get a good foundation in Math, Algorithms, Data Structures and Machine Learning, and enough preparation to get a job on the field.
 
 - [Progress](progress.md)
-- [The rules](faq.md#the-rules)
 - [Part One - Getting Job Ready](#Part-One---Getting-Job-Ready)
     - [Tier 0 - Prep](#tier-0---prep)
     - [Tier 1 - Intro to Programming](#tier-1---intro-to-programming)
