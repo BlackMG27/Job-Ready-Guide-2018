@@ -117,7 +117,7 @@ _By the end of this tier, you should have completed at least 50% of the part two
 - [ ]  Project: Continue honing your skills as you interview. Prioritize contributing to open source.
 ---
 
-## Part Two - Depth dive into Computer Science
+## Part Two - Deep dive into Computer Science
 
 ### Math
 - [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra)
@@ -166,7 +166,7 @@ _From soft-medium to advace topics_
 - [ ]  Course: [Reviews & Metrics for Software Improvements](https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements)
 - [ ]  Course: [Software Product Management Capstone](https://www.coursera.org/learn/software-product-management-capstone)
 
-### Resources
+## Resources
 Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.
     - [CSS Diner](https://flukeout.github.io/)
     - [FlexBox Defense](http://www.flexboxdefense.com/)
