@@ -165,6 +165,7 @@ _From soft-medium to advace topics_
 - [ ]  Course: [Agile Planning for Software Products](https://www.coursera.org/learn/agile-planning-for-software-products)
 - [ ]  Course: [Reviews & Metrics for Software Improvements](https://www.coursera.org/learn/reviews-and-metrics-for-software-improvements)
 - [ ]  Course: [Software Product Management Capstone](https://www.coursera.org/learn/software-product-management-capstone)
+---
 
 ## Resources
 Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.
