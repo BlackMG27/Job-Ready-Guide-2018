@@ -1,6 +1,6 @@
 # Progress towards my learning goals
 
-## 2018
+## 2018 - 2020
 
 I am working on my full-stack Javascript and Python skills (short-term), with Computer Science, Machine Learning, and Artificial Intelligence for the long term.
 
