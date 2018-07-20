@@ -8,13 +8,15 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current     
 Courses Completed: 0
-Total Points earned: 40
+Total Points earned: 75
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
 | 07/16/2018 |Khan Academy | 10     | 
 | 07/16/2018 | Blog Post | 15 | [Zen Programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)     
 | 07/16/2018 | Blog Post | 15 | [Programmers & SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
+| 07/17/2018 | Khan Academy | 10 |
+| 07/18/2018 | Kickboxing (75mins) | 25
 
 
 
