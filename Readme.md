@@ -167,7 +167,8 @@ _From soft-medium to advace topics_
 ---
 
 ## Resources
-Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.
+Tier 1 
+  - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.
     - [CSS Diner](https://flukeout.github.io/)
     - [FlexBox Defense](http://www.flexboxdefense.com/)
     - [FlexBox Froggy](http://flexboxfroggy.com/)
@@ -190,6 +191,8 @@ Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a
     - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - for exploring all that HTML has to offer
     - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)- for exploring all that CSS has to offer
     - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)- for exploring all that JavaScript has to offer
+    - [MDN Server-Side Programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side) - some basis for ExpressJS and Django
+    - [Pug](https://pugjs.org/api/getting-started.html) - HTML Templating Language
     - [Sass](http://sass-lang.com/guide) - supercharged CSS
     - [Node.js](https://nodejs.org/en/docs/) - should be your primary reference for building backend projects
     - [Express](https://expressjs.com/) - an excellent framework to accompany Node.js on the backend
