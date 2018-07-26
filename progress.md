@@ -6,9 +6,9 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 ## Progress
 
-Current     
-Courses Completed: 0
-Total Points earned: 130
+Current: [Programming the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)    
+Courses Completed: 
+Total Points earned: 230
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -20,6 +20,7 @@ Total Points earned: 130
 | 07/21/2018 | Blog Article | 10
 | 07/23/2018 | Gym (60 mins) | 20
 | 07/25/2018 | Kickboxing (75 mins) | 25
+| 07/26/2018 | Practical Javascript | 100 | [Practical Javascript](https://www.watchandcode.com)
 
 
 
