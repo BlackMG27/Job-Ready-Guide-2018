@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current     
 Courses Completed: 0
-Total Points earned: 75
+Total Points earned: 130
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -17,6 +17,9 @@ Total Points earned: 75
 | 07/16/2018 | Blog Post | 15 | [Programmers & SEO](https://katemats.com/what-every-programmer-should-know-about-seo/)
 | 07/17/2018 | Khan Academy | 10 |
 | 07/18/2018 | Kickboxing (75mins) | 25
+| 07/21/2018 | Blog Article | 10
+| 07/23/2018 | Gym (60 mins) | 20
+| 07/25/2018 | Kickboxing (75 mins) | 25
 
 
 
