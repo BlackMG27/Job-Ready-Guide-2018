@@ -21,6 +21,7 @@ Total Points earned: 230
 | 07/23/2018 | Gym (60 mins) | 20
 | 07/25/2018 | Kickboxing (75 mins) | 25
 | 07/26/2018 | Practical Javascript | 100 | [Practical Javascript](https://www.watchandcode.com)
+| 08/03/2018 | Learn to Code HTMl & CSS | 100 | [Learn to Code HTML/CSS](https://learn.shayhowe.com/html-css/)
 
 
 
