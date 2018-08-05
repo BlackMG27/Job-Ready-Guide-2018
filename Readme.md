@@ -38,7 +38,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 **Goal:** Become Proficient with HTML, CSS, and JavaScript.
 
 _You should be able to get the FreeCodeCamp Frontend Certification after this tier_
-- [ ] **DOING** Book: ~~[You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)~~ or [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [x] Book: ~~[You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)~~ 
 - [ ] **FROZE** Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  on edX
 - [ ]  Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 - [x]  Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)   
