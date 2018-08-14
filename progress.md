@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current: [Programming the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)    
 Courses Completed: 
-Total Points earned: 375
+Total Points earned: 395
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -24,6 +24,7 @@ Total Points earned: 375
 | 08/03/2018 | Learn to Code HTMl & CSS | 100 | [Learn to Code HTML/CSS](https://learn.shayhowe.com/html-css/)
 | 08/08/2018 | Kickboxing (75mins) | 25
 | 08/11/2018 | Kickboxing (60mins) | 20
+| 08/13/2018 | Gym (60mins) | 20
 
 
 
