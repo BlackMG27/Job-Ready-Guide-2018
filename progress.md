@@ -25,6 +25,7 @@ Total Points earned: 395
 | 08/08/2018 | Kickboxing (75mins) | 25
 | 08/11/2018 | Kickboxing (60mins) | 20
 | 08/13/2018 | Gym (60mins) | 20
+| 08/19/2018 | YDKJS: Scopes & Closures | 200
 
 
 
