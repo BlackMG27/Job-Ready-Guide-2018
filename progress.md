@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current: [Programming the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)    
 Courses Completed: 
-Total Points earned: 595
+Total Points earned: 600
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -26,6 +26,7 @@ Total Points earned: 595
 | 08/11/2018 | Kickboxing (60mins) | 20
 | 08/13/2018 | Gym (60mins) | 20
 | 08/19/2018 | YDKJS: Scopes & Closures | 200
+| 09/02/2018 | Personal Journal | 5
 
 
 
