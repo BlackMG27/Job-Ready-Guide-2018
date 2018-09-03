@@ -26,7 +26,7 @@ Total Points earned: 600
 | 08/11/2018 | Kickboxing (60mins) | 20
 | 08/13/2018 | Gym (60mins) | 20
 | 08/19/2018 | YDKJS: Scopes & Closures | 200
-| 09/02/2018 | Personal Journal | 5
+| 09/02/2018 | Personal Journal | 5 | [For Me, Coding Is Kinda Like Baking](https://medium.com/@ogechiike/for-me-coding-is-kinda-like-baking-a008dbed838)
 
 
 
