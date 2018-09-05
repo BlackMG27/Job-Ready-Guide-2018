@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current: [Programming the Web with Javascript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)    
 Courses Completed: 
-Total Points earned: 600
+Total Points earned: 620
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -26,8 +26,10 @@ Total Points earned: 600
 | 08/11/2018 | Kickboxing (60mins) | 20
 | 08/13/2018 | Gym (60mins) | 20
 | 08/19/2018 | YDKJS: Scopes & Closures | 200
-| 09/02/2018 | Personal Journal | 5 | [For Me, Coding Is Kinda Like Baking](https://medium.com/@ogechiike/for-me-coding-is-kinda-like-baking-a008dbed838)
-
+| 09/02/2018 | Web Journey Journal | 5 | [For Me, Coding Is Kinda Like Baking](https://medium.com/@ogechiike/for-me-coding-is-kinda-like-baking-a008dbed838)
+|09/03/2018 | Personal Journal | 5
+|09/04/2018 | Personal Journal | 5
+|09/05/2018 | Exercise | 10
 
 
 
