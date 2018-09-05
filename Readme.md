@@ -59,6 +59,7 @@ _You should be able to get the FreeCodeCamp Frontend Certification after this ti
 - [ ]  Course: [Getting Sassy with CSS](http://www.sassshop.com/#/) or [Sass](http://sass-lang.com/guide), or both _why not?_
 - [ ]  Project: [100 Days of CSS](https://100dayscss.com/), scroll to the bottom of that page, beginning with #001, recreate the images, in CodePen. Start the first one now and set a goal of finishing as many as you can by the end of Tier 3. (Intent: Build a presence on CodePen as a proficient HTML/(S)CSS developer to add another online body of work alongside your growing GitHub profile.)
 - [ ]  Book: [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)  
+- [ ] Book: [Python Crash Course](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose. 
 
 ### Tier 2 - Add Complexity
@@ -71,7 +72,6 @@ _During this tier you should get the FreeCodeCamp Data Visualization Certificati
 - [ ]  Course: [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 - [ ]  Book: [Think Python](http://www.greenteapress.com/thinkpython/)
 - [ ]  Study: [The Flask User Guide](http://flask.pocoo.org/docs/0.12/) or [the Django documentation](https://docs.djangoproject.com/en/1.11/) - pick based on which is more prevalent in your area, which you personally prefer, or any other criteria you choose, but pick one and study it thoroughly. Do the tutorials, read it all, learn testing, auth, databases, all of it.
-- [ ] Book: [Python Crash Course](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf)
 - [ ]  Study: [The pytest testing tool](https://docs.pytest.org/en/latest/) read the docs thoroughly, experiment with the examples and become proficient with pytest (including unittest and nose).
 - [ ]  Course: [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (Sign up at the start of the Tier and then take the course when it becomes available)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
