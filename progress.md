@@ -29,7 +29,7 @@ Total Points earned: 835
 | 09/02/2018 | Web Journey Article | 10 | [For Me, Coding Is Kinda Like Baking](https://medium.com/@ogechiike/for-me-coding-is-kinda-like-baking-a008dbed838)
 |09/03/2018 | Personal Journal | 5
 |09/04/2018 | Personal Journal | 5
-|09/04/2018 | Article | 10 | (Before You Start P1XT Guides or #100DaysofCode, Read Show Your Work)[https://medium.com/@ogechiike/before-you-start-p1xt-guides-or-100daysofcode-read-show-your-work-21ae303c9d29]
+|09/04/2018 | Article | 10 | (Before You Start P1XT Guides or #100DaysofCode, Read Show Your Work)(https://medium.com/@ogechiike/before-you-start-p1xt-guides-or-100daysofcode-read-show-your-work-21ae303c9d29)
 |09/05/2018 | Exercise | 10
 |09/06/2018 | Basic Project | 100 | [RSVP](http://ike-30sites-day2_1.surge.sh/)
 
