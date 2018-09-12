@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current:     
 Courses Completed: 
-Total Points earned: 835
+Total Points earned: 850
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -33,6 +33,8 @@ Total Points earned: 835
 |09/05/2018 | Exercise | 10
 |09/06/2018 | Basic Project | 100 | [RSVP](http://ike-30sites-day2_1.surge.sh/)
 |09/07/2018 | Basic Project | 100 | [Temp Converter](http://ike-temp-converter.surge.sh/)
+|09/11/2018 | Blog Article | 10 | [Paying it Forward: Benefits of Volunteering in Tech](https://medium.com/@ogechiike/paying-it-forward-benefits-of-volunteering-in-tech-75679007a518)
+|09/11/2018 | Personal Journal | 5
 
 
 
