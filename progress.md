@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current:     
 Courses Completed: 
-Total Points earned: 855
+Total Points earned: 880
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -36,6 +36,7 @@ Total Points earned: 855
 |09/11/2018 | Blog Article | 10 | [Paying it Forward: Benefits of Volunteering in Tech](https://medium.com/@ogechiike/paying-it-forward-benefits-of-volunteering-in-tech-75679007a518)
 |09/11/2018 | Personal Journal | 5
 | 09/13/2018 | Personal Jorunal | 5
+| 09/15/2018| Kickboxing (75min) | 25
 
 
 
