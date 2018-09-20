@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current:     
 Courses Completed: 
-Total Points earned: 880
+Total Points earned: 980
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
