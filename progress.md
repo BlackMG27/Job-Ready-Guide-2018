@@ -37,7 +37,7 @@ Total Points earned: 880
 |09/11/2018 | Personal Journal | 5
 | 09/13/2018 | Personal Jorunal | 5
 | 09/15/2018| Kickboxing (75min) | 25
-
+|09/19/2018 | Basic Project |100 | [TV/ Movie Marker](http://ike-movie-tv-marker.surge.sh/)
 
 
 
