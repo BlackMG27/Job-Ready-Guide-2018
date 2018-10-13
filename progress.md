@@ -8,7 +8,7 @@ I am working on my full-stack Javascript and Python skills (short-term), with Co
 
 Current:     
 Courses Completed: 
-Total Points earned: 980
+Total Points earned: 995
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
@@ -38,6 +38,7 @@ Total Points earned: 980
 | 09/13/2018 | Personal Jorunal | 5
 | 09/15/2018| Kickboxing (75min) | 25
 |09/19/2018 | Basic Project |100 | [TV/ Movie Marker](http://ike-movie-tv-marker.surge.sh/)
+| 10/01/2018 | Blog Article | 15 | [Power to Soar: My Time at Women in Tech Breakfast](https://medium.com/@ogechiike/power-to-soar-my-time-at-women-in-tech-breakfast-ca5d52f3986c)
 
 
 
